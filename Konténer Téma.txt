@@ -1,0 +1,22 @@
+1. Logisztika és Szállítmányozás (Hagyományos konténerek)
+Ez a vázlat a globális kereskedelem alapköveiről szól.
+Bevezetés: Mi a konténer? (Szabványosított tárolóegység, intermodális szállítás alapja).
+Típusok és Méretek:
+20 és 40 lábas konténerek (TEU fogalma).
+Speciális típusok: Hűtőkonténer (Reefer), nyitott tetejű (Open Top), tartálykonténer.
+Műszaki felépítés: Anyaghasználat (fémlemez, merevítő bordák), padló teherbírása és rögzítési pontok.
+Szállítási módok: Tengeri, vasúti és közúti integráció.
+Előnyök: Védelem az időjárás ellen, gyors rakodás, biztonság.
+2. IT és Szoftverfejlesztés (Docker, Kubernetes)
+Ha informatikai prezentációt készítesz, fókuszálj a virtualizáció új szintjére.
+Alapfogalom: Mi az a szoftveres konténer? (Izolált környezet az alkalmazás és függőségei számára).
+Virtuális gép vs. Konténer: Miért hatékonyabb a konténer? (Közös kernel használata, kisebb méret).
+Docker: A legismertebb platform bemutatása (Image, Container, Registry).
+Orkesztráció (Kubernetes): Hogyan kezelünk több ezer konténert egyszerre?
+Előnyök: Skálázhatóság, hordozhatóság ("minden gépen ugyanúgy fut"), DevOps folyamatok gyorsítása.
+3. Konténer Építészet és Moduláris Megoldások
+Fenntarthatóság és kreatív építészeti megoldások.
+Trendek: Miért népszerű a konténerház? (Költséghatékonyság, gyors kivitelezés).
+Alkalmazási területek: Lakóházak, pop-up üzletek, irodakonténer, felvonulási épületek.
+Fenntarthatóság: Újrahasznosítás (szállítmányozásból kivont egységek élete).
+Kihívások: Szigetelés, engedélyeztetés, korrózióvédelem.
